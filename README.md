@@ -1,4 +1,4 @@
-# avatar
+# Avatar
 
 ![460x460](paulradzkov_460x460.jpg)
 
